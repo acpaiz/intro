@@ -1,0 +1,34 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: beige;
+    font-size: 18;
+}
+a:link{
+    text-decoration: none;
+    color: blue;
+}
+a:visited{
+    text-decoration: none;
+    color: blue;
+}
+a:hover{
+    font-size: large;
+    text-decoration: underline;
+    color: yellow;
+}
+.headingmerah{
+    color: red;
+}
+.pratakanan{
+    text-align: right;
+}
+.pratatengah{
+    text-align: center;
+}
+.rcorners2 {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px;
+    width: 200px;
+    height: 50px;
+  }
